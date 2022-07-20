@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.13.10",
-    "react-native-collapsible": "^1.5.3",
+    "react-native-collapsible": "^1.6.0",
     "react-native-svg": "^12.1.0"
   },
   "devDependencies": {
